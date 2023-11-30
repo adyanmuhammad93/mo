@@ -1,0 +1,12 @@
+[
+  { "id": 201, "name": "Mathematics", "archived": false },
+  { "id": 202, "name": "English", "archived": false },
+  { "id": 203, "name": "Science", "archived": false },
+  { "id": 204, "name": "History", "archived": false },
+  { "id": 205, "name": "Geography", "archived": false },
+  { "id": 206, "name": "Physics", "archived": false },
+  { "id": 207, "name": "Chemistry", "archived": false },
+  { "id": 208, "name": "Biology", "archived": false },
+  { "id": 209, "name": "Computer Science", "archived": false },
+  { "id": 210, "name": "Art", "archived": false }
+]
